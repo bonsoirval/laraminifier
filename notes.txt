@@ -1,0 +1,4 @@
+lara minifier to remove
+1. Comments in html
+2. All white spaces
+3. And more.
